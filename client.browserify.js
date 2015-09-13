@@ -1,0 +1,1 @@
+ipfsAPI = require('ipfs-api');
